@@ -1,0 +1,14 @@
+C:\Users\nicolas.azzara\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\nicolas.azzara\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\nicolas.azzara\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\nicolas.azzara\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\nicolas.azzara\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.azzara\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\nicolas.azzara\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\nicolas.azzara\Desktop\Ejercicio2 strings\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\nicolas.azzara\Desktop\Ejercicio2 strings\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.azzara\Desktop\Ejercicio2 strings\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\nicolas.azzara\Desktop\Ejercicio2 strings\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\nicolas.azzara\Desktop\Ejercicio2 strings\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\nicolas.azzara\Desktop\Ejercicio2 strings\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\nicolas.azzara\Desktop\Ejercicio2 strings\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
