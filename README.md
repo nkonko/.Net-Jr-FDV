@@ -36,3 +36,29 @@ Menor: 1 / Mayor: 12
 Menos repeticiones: 4 / Más repeticiones: 5
 
 Repeticiones igual al número: 2
+
+# Ejercicio2 Strings
+
+- Install:
+    ```bash
+    cd ~/code
+    git clone https://github.com/nkonko/.Net-Jr-FDV.git
+    cd Ejercicio2 Strings
+    ```
+ ## Consigna:
+ 
+ 2) Haga una aplicación de consola (en C#) en donde el usuario ingrese strings hasta que ingrese “salir”. Luego imprima en pantalla todas las palabras que se repitan en todos los strings, con la primer letra en mayúsculas:
+
+Ejemplo:
+
+Input:
+
+El auto era de color rojo.
+
+El color ROJO es el que tiene ese auto.
+
+Rojo, verde y amarillo son los colores que muestra el semáforo.
+
+Output:
+
+Rojo, El.
